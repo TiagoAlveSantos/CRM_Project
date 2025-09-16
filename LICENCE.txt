@@ -1,0 +1,19 @@
+Copyright (c) 2025 TiagoAlveSantos
+
+All rights reserved.
+
+This software (hereinafter referred to as "CRM") is provided solely for viewing and study purposes.  
+Copying, modifying, distributing, sublicensing, or using the CRM, in whole or in part, without the express written authorization of the copyright holder is strictly prohibited.
+
+Commercial licenses can be obtained by contacting the author.
+
+-------------------------------------------------------------
+
+Todos os direitos reservados.
+
+Este software (doravante denominado "CRM") é disponibilizado apenas para fins de visualização e estudo.  
+É proibido copiar, modificar, distribuir, sublicenciar ou utilizar o CRM, no todo ou em parte, sem a autorização expressa e por escrito do detentor dos direitos autorais.
+
+Licenças comerciais podem ser obtidas mediante contato com o autor.
+
+Contact: tiago.santos.cel@gmail.com
